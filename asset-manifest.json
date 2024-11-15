@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.f4b4c00e.css",
-    "main.js": "/static/js/main.8c24740c.js",
-    "static/media/main-image.svg": "/static/media/main-image.f18279149c7119144b56.svg",
-    "static/media/Card.svg": "/static/media/Card.3241059908524579a286.svg",
-    "static/media/FuturaPT-Medium.ttf": "/static/media/FuturaPT-Medium.4ab635fb83b15f9e3627.ttf",
-    "static/media/FuturaPT-Book.ttf": "/static/media/FuturaPT-Book.16ebcf48c36cedf12d82.ttf",
-    "static/media/refresh.svg": "/static/media/refresh.05b4faebccf5ea108ef7803e2fafe1de.svg",
-    "static/media/Logo.svg": "/static/media/Logo.6d22b73f6fe21fc87e26e8c5d27c222e.svg",
-    "static/media/next.svg": "/static/media/next.8d130d33bc2e5b54b4e90c8446a6a52e.svg",
-    "static/media/Telephone.svg": "/static/media/Telephone.18d388f95a295a11ba921d80a12cc2a4.svg",
-    "static/media/subscribe-row.svg": "/static/media/subscribe-row.d392183eb96e851abdf70abadedefd97.svg",
-    "index.html": "/index.html",
-    "static/media/menu.svg": "/static/media/menu.22a05970d93e0f98250a.svg",
-    "main.f4b4c00e.css.map": "/static/css/main.f4b4c00e.css.map",
-    "main.8c24740c.js.map": "/static/js/main.8c24740c.js.map"
+    "main.css": "/IT-news/static/css/main.3d95f6a4.css",
+    "main.js": "/IT-news/static/js/main.334e51a8.js",
+    "static/media/main-image.svg": "/IT-news/static/media/main-image.0c66b98aafeb8c26a54c.svg",
+    "static/media/Card.svg": "/IT-news/static/media/Card.d3d1b7d98bfc7524fdb4.svg",
+    "static/media/FuturaPT-Medium.ttf": "/IT-news/static/media/FuturaPT-Medium.4ab635fb83b15f9e3627.ttf",
+    "static/media/FuturaPT-Book.ttf": "/IT-news/static/media/FuturaPT-Book.16ebcf48c36cedf12d82.ttf",
+    "static/media/refresh.svg": "/IT-news/static/media/refresh.3d9ad7938383976c2850ca227b913e21.svg",
+    "static/media/Logo.svg": "/IT-news/static/media/Logo.29e21111a5bc08a710d5b916c8558fe0.svg",
+    "static/media/next.svg": "/IT-news/static/media/next.05f907820b98790c7a7fbf81c7cd1888.svg",
+    "static/media/Telephone.svg": "/IT-news/static/media/Telephone.63ccda64b3b50d6e948903240702e2e6.svg",
+    "static/media/subscribe-row.svg": "/IT-news/static/media/subscribe-row.0755f7ab34cbd684a7f0ee0fbbe54796.svg",
+    "index.html": "/IT-news/index.html",
+    "static/media/menu.svg": "/IT-news/static/media/menu.22a05970d93e0f98250a.svg",
+    "main.3d95f6a4.css.map": "/IT-news/static/css/main.3d95f6a4.css.map",
+    "main.334e51a8.js.map": "/IT-news/static/js/main.334e51a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4b4c00e.css",
-    "static/js/main.8c24740c.js"
+    "static/css/main.3d95f6a4.css",
+    "static/js/main.334e51a8.js"
   ]
 }
