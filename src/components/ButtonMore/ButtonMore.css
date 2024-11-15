@@ -1,0 +1,30 @@
+.button-more {
+  width: 280px;
+  height: 50px;
+  background-color: #5d71dd;
+  color: #ffffff;
+  font-family: 'Futura PT';
+  font-size: 18px;
+  border: none;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.button-more__refresh-image {
+  width: 20px;
+  height: 20x;
+  margin-left: 10px;
+}
+
+.button-more:hover {
+  background-color: #6c7dd8;
+}
+
+@media (min-width: 1024px) {
+  .button-more {
+    display: none;
+  }
+}
